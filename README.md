@@ -22,6 +22,7 @@ POVs are a bit unique in that they use a 4 bit integer to indicate it's input, s
 ## Planned Features
 - Controller profile system.
 - Auto profile switching.
+- Force Feedback
 
 ## Screenshots
 Umami:  
